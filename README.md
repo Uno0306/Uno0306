@@ -1,8 +1,6 @@
 📚 STACKS
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={zion6878})](https://solved.ac/{zion6878})
 
 
 <div style="display: flex;">
