@@ -37,7 +37,7 @@ Tools:
 <br>
 <br>
 SNS: 
-![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat&logo=Naver&logoColor=white)
+![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat&logo=Naver&logoColor=white)(https://blog.naver.com/study2code/222807642617)
 
 # <hr>
 
