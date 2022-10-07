@@ -18,6 +18,7 @@ Back-end:
 ![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat&logo=Spring%20Boot&logoColor=white)
 ![Spring%20Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=flat&logo=Spring%20Security&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-000000.svg?&style=flat)
+![Apache%20Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=flat&logo=Apache%20Tomcat&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white)
 ![Apache%20Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?&style=flat&logo=Apache%20Maven&logoColor=white)
 <br>
