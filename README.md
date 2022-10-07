@@ -24,6 +24,7 @@ Back-end:
 <br>
 <br>
 DevOps: 
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 ![Amazon%20AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat&logo=Amazon%20AWS&logoColor=white)
 ![Amazon%20EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=flat&logo=Amazon%20EC2&logoColor=white)
