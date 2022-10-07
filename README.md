@@ -10,6 +10,7 @@ Front-end:
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?&style=flat&logo=MUI&logoColor=white)
 <span> </span>
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?&style=flat&logo=Axios&logoColor=white)
 <br>
 <br>
 Back-end: 
@@ -23,6 +24,10 @@ Back-end:
 <br>
 DevOps: 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
+![Amazon%20AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat&logo=Amazon%20AWS&logoColor=white)
+![Amazon%20EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=flat&logo=Amazon%20EC2&logoColor=white)
+![Amazon%20RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?&style=flat&logo=Amazon%20RDS&logoColor=white)
+![Amazon%20S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?&style=flat&logo=Amazon%20S3&logoColor=white)
 <br>
 <br>
 OS: 
@@ -37,7 +42,7 @@ Tools:
 <br>
 <br>
 SNS: 
-![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat&logo=Naver&logoColor=white)(https://blog.naver.com/study2code/222807642617)
+![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat&logo=Naver&logoColor=white)
 
 # <hr>
 
