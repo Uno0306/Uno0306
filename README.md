@@ -10,22 +10,34 @@ Front-end:
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?&style=flat&logo=MUI&logoColor=white)
 <span> </span>
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
-
 <br>
-
-Back-end:   
+<br>
+Back-end: 
 ![Java](https://img.shields.io/badge/Java-A5915F.svg?&style=flat&logo=CoffeeScript&logoColor=white)
 ![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat&logo=Spring%20Boot&logoColor=white)
 ![Spring%20Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=flat&logo=Spring%20Security&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-000000.svg?&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white)
 ![Apache%20Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?&style=flat&logo=Apache%20Maven&logoColor=white)
-
 <br>
-
-Tools:   
+<br>
+DevOps: 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
+<br>
+<br>
+OS: 
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=white)
+<br>
+<br>
+Tools: 
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=GitHub&logoColor=white)
 ![EclipseIDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=EclipseIDE&logoColor=white)
-
+![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat&logo=Postman&logoColor=white)
+<br>
+<br>
+SNS: 
+![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat&logo=Naver&logoColor=white)
 
 # <hr>
 
