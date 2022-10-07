@@ -52,7 +52,7 @@ SNS:
 <br>
 
 
-<div style="display: flex;">
+<div display="flex">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uno0306)](https://github.com/Uno0306/github-readme-stats)
 
