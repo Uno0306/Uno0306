@@ -44,13 +44,10 @@ Tools:
 SNS: 
 ![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat&logo=Naver&logoColor=white)
 
-# <hr>
-
-
+<hr>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zion6878)](https://solved.ac/zion6878/)
 
-   
 <br>
 
 
