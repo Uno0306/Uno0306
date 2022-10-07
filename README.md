@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=auto&amp;height=200&amp;text=WelCome&amp;fontAlign=70&amp;rotate=13&amp;fontAlignY=25&amp;desc=Uno0306's%20Github&amp;descAlign=70.&amp;descAlignY=44" style="max-width: 100%;">
 
 
-# 📚 STACKS
+# :green_book: STACKS
 
 Front-end: 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white)
@@ -45,18 +45,20 @@ Tools:
 SNS: 
 ![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=flat&logo=Naver&logoColor=white)
 
-<hr>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zion6878)](https://solved.ac/zion6878/)
-
 <br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUno0306&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+# :orange_book: IMAGES
+<div>
+  <br>
+  
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zion6878)](https://solved.ac/zion6878/)
 
-<div display="flex">
+  <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uno0306)](https://github.com/Uno0306/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uno0306)](https://github.com/Uno0306/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uno0306)](https://github.com/Uno0306/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uno0306)](https://github.com/Uno0306/github-readme-stats) 
 
 
 </div>
