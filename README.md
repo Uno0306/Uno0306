@@ -44,9 +44,9 @@ Tools:
 <br>
 <br>
 SNS: 
-  <a href="https://blog.naver.com/study2code" target="_blank" rel="noopener">
+  <a href="https://blog.naver.com/study2code">
     <img src="https://img.shields.io/badge/Blog-03C75A.svg?&style=flat&logo=Naver&logoColor=white"/>
-  </a>
+  </a>{:target="_blank"}
 
 
 <br>
